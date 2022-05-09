@@ -1,0 +1,7 @@
+{
+    "appName" : "BBLApp",
+    "hello": "Hello world",
+    "actionActualities" : "News",
+    "actionBook" : "Appointment",
+    "actionPrices": "Prices"
+}
